@@ -43,4 +43,5 @@ On this file, we should code few simple lines,
 - Line 12: CMD execute the NodeJS server
 After that, we should run a docker command on the terminar to create the image
 > docker build -t ravn:sabado ./
+
 This line will create the image file on dockers, and it will be ready to be used
